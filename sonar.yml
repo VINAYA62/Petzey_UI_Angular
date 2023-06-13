@@ -6,7 +6,6 @@ on:
 
 
 
- 
 jobs:
   sonarqube:
     runs-on: ubuntu-latest
